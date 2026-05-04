@@ -35,8 +35,8 @@ By the end of this module, you will be able to:
 **Questions can be submitted to the #questions channel on Slack**
 
 * Technical Facilitator: 
-  * name: `Ciara Zogheib`
-  * email: `ciara.zogheib@mail.utoronto.ca`
+  * name: `Fan Wang`
+  * email: `fbaobao926@gmail.com`
 * Learning Support Staff: 
   * name: `Xindi`
   * email: `xindi.zhang@mail.utoronto.ca`
