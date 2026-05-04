@@ -38,10 +38,10 @@ By the end of this module, you will be able to:
   * name: `Fan Wang`
   * email: `fbaobao926@gmail.com`
 * Learning Support Staff: 
-  * name: `Xindi`
-  * email: `xindi.zhang@mail.utoronto.ca`
-  * name: `Gayathri`
-  * email: `gayathri.girishkumar@mail.utoronto.ca`
+  * name: `Tianyi Liu`
+  * email: `tianyi@psi.toronto.edu`
+  * name: `Anjali Shrivastava`
+  * email: `anju_shrivastava@yahoo.com`
   * name: `Vishakh`
   * email: `Vishakh8128@gmail.com`
 
